@@ -257,6 +257,14 @@ p {
     margin-bottom: 40px;
 }
 
+@media(max-width:768px) {
+    .footer {
+        text-align: center;
+    }
+}
+
+/*CREATOR*/
+
 #creator h5 {
     color:white !important;
     text-align:center !important;
